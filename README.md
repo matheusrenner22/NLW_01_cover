@@ -5,3 +5,6 @@
 </p>
 
 <a href="https://matheusrenner22.github.io/nlw-rocketseat-01/" title="site">Project page
+
+#PREVIEW PAGE
+<img href="./assets/capture-page.png">
